@@ -1,0 +1,27 @@
+conditional Statements:-
+
+1. What is a Control Statement?
+A **control statement** controls the flow of execution of a program.
+
+## 2. Why Do We Use Control Statements?
+- To make decisions.
+- To repeat code.
+- To change the flow of execution.
+
+3. Types of Control Statements
+
+There are **3 main types**:
+
+| Type | Purpose | Examples |
+|---|---|---|
+| 1. Decision-making | Checks conditions | `if`, `if-else`, `switch` |
+| 2. Looping | Repeats code | `for`, `while`, `do-while` |
+| 3. Jumping | Changes execution flow | `break`, `continue`, `return` |
+
+Simple Examples
+1. **Decision-making:** If marks ≥ 35, print "Pass"; otherwise, print "Fail".
+2. **Looping:** Print numbers from 1 to 10.
+3. **Jumping:** Stop a loop using `break`.
+
+**Remember:** Decision = Choose, Loop = Repeat, Jump = Change flow.
+
